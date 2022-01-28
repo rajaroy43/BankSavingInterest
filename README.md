@@ -1,7 +1,7 @@
 ## Steps for running this contract
 
-1. clone this repo as `git clone https://github.com/rajaroy43/TraceLabsTest.git `
-2. cd TraceLabsTest
+1. clone this repo as `git clone https://github.com/rajaroy43/BankSavingInterest.git `
+2. cd BankSavingInterest
 3. npm install (or yarn from root directory)
 2. cp .env.example >> .env (Add rinkeby infura url and private key there )
 3. yarn compile (For compiling smart contact)
